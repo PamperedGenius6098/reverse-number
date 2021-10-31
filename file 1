@@ -12,3 +12,4 @@ while (ch=='y') or (ch=='Y'):
                 print("Wrong input")
                 break
             ch=input("Do you want more y/n:")
+print("thanks")
