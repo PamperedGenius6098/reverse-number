@@ -1,6 +1,6 @@
 ch='y'
 while (ch=='y') or (ch=='Y'):
-    n=input("enter a no.:")
+    n=input("Enter a number:")
     print(n[::-1])
     ch=input("Do you want more y/n:")
     while (ch!='y') or (ch!='Y'):
@@ -12,4 +12,4 @@ while (ch=='y') or (ch=='Y'):
                 print("Wrong input")
                 break
             ch=input("Do you want more y/n:")
-print("thanks")
+print("Thanks for testing")
